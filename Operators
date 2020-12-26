@@ -1,0 +1,25 @@
+#Operator
+
+print(10 + 5)
+
+print(10 - 5)
+
+print(10 / 5)
+
+print(10 * 5)
+
+nummer1 = 10
+
+nummer2 = 5
+
+nummer3 = nummer1 * nummer2
+
+print(nummer2 < nummer3)
+
+print(nummer2 != nummer3)
+
+print(nummer2 > nummer3)
+
+print(nummer2 == nummer2)
+
+print(nummer3 >= nummer3)
